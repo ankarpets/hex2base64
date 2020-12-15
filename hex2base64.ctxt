@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=hex2base64
+comment0.text=\r\n\ Class\ hex2base64\ to\ get\ Base64\ out\ of\ a\ string.\r\n\ \r\n\ @author\ ankarpets\r\n\ @version\ 15.12.2020\r\n
+comment1.params=hex
+comment1.target=java.lang.String\ hexToBin(java.lang.String)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=bin
+comment3.target=void\ base64(java.lang.String)
+numComments=4
